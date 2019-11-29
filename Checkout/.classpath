@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/commons-email-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/commons-email-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/javax.mail-api-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/opencsv-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/phantomjsdriver-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/selenium-htmlunit-driver-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/testng-6.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/SeleniumPrograms/DataDrivenFramWork/Lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
